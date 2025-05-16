@@ -1,5 +1,5 @@
-Room for One More is a survival-based game where the player enter a themed room of enemies and fights 5 waves and on the fifth wave they fight the boss of the room. 
-Once the boss is defeated, the player can exit the room and get into another room or the same room to fight another 5 waves of enemies.
+Room for One More is a survival-based game where the player enter a themed room of enemies and fights 3 waves and on the third wave they fight the boss of the room. 
+Once the boss is defeated, the player can exit the room and get into another room or the same room to fight another 3 waves of enemies.
 The goal of the game is for the player to surviva as long as they can until they die/lose.
 
 Contributions
