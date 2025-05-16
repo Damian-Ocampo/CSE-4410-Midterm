@@ -3,11 +3,11 @@ Once the boss is defeated, the player can exit the room and get into another roo
 The goal of the game is for the player to surviva as long as they can until they die/lose.
 
 Contributions
-Salvador Muro: Enemy movement system
-               Enemy combat system
-               NavMesh system
-               Wave Management
-               Shop + Inventory
+Salvador Muro: -Enemy movement system
+               -Enemy combat system
+               -NavMesh system
+               -Wave Management
+               -Shop + Inventory
 
 Damian Ocampo-Flores:   Wall Textures and Enemy Models
                         Player Upgrades + Scripts
